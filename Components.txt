@@ -1,0 +1,7 @@
+components:
+arduino uno
+l293d motor shield
+Ultrasonic sensor
+1 9v battery
+4 1.5 volt battery
+10 female to female wires
